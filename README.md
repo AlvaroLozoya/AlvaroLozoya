@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Álvaro Lozoya Llorente</h1>
-<h3 align="center">cualquier cosa</h3>
+<h3 align="center"></h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fdgfgfg&label=Profile%20views&color=0e75b6&style=flat" alt="fdgfgfg" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AlvaroLozoya&label=Profile%20views&color=0e75b6&style=flat" alt="AlvaroLozoya" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
